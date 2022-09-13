@@ -1,1 +1,1 @@
-# Frist Java Program
+# First Java Program
