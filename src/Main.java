@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        //! TODO add method that prints string to console
+        System.out.println("My name is Coding Dojo\nI am 100 years old\nMy hometown is Burbank CA");
     }
 }
