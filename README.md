@@ -1,5 +1,7 @@
 # First Java Program
 
+## Solution Branch
+
 ```python
 My name is Coding Dojo
 I am 100 years old
