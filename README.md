@@ -1,6 +1,6 @@
 # First Java Program
 
-```python
+```bash
 My name is Coding Dojo
 I am 100 years old
 My hometown is Burbank, CA
